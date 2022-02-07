@@ -86,3 +86,6 @@ bin-test
 # dated folders
 /19*
 /20*
+
+build/
+.gradle/
